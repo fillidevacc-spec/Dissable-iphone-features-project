@@ -3,7 +3,7 @@ this is a repository for disabling iphone features like camera, microphone and m
 
 I am not sure if any of these work but if they do then cool.
 
-Note:For iOS to enforce these hardware and privacy restrictions, the receiving iPhone must be in Supervised Mode (configured via Apple Configurator or enrolled through an MDM server). Unsupervised personal devices will install the profile but ignore the restriction payloads.
+Note:For iOS to enforce all these hardware and privacy restrictions, the receiving iPhone must be in Supervised Mode (configured via Apple Configurator or enrolled through an MDM server). Unsupervised personal devices will install the profiles but ignore the restriction payloads.
 
 Note2: not ALL files remove iphone features instead they dissable the option to enable them in settings (so yes u can still be spied on) except if u have supervised mode on.
 
