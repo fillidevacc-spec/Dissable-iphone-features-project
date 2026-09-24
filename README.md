@@ -1,10 +1,12 @@
 # Open-source-Dissable-iphone-features-project
-this is a repository for disabling iphone features like camera, microphone and more.
+this is a repository for disabling iphone features like camera, microphone and WAY more.
 
-I am not sure if any of these work but if they do then cool.
+!!I am not sure if all of these work!!
 
-Note:For iOS to enforce all these hardware and privacy restrictions, the receiving iPhone must be in Supervised Mode (configured via Apple Configurator or enrolled through an MDM server). Unsupervised personal devices will install the profiles but ignore the restriction payloads.
+Note:For iOS to enforce all these hardware and privacy restrictions, the receiving iPhone must be in Supervised Mode (configured via Apple Configurator or enrolled through an MDM server). Unsupervised personal devices will install the profiles but ignore the restriction payloads (doesnt mean that ALL dont work (camera and face id block work without supervised mode)).
 
 Note2: not ALL files remove iphone features instead they dissable the option to enable them in settings (so yes u can still be spied on) except if u have supervised mode on.
+
+Note3: Location services "block" doesnt also disable find me, you have to manually disable find me (if there is a way i will launch a find me block ut most likeyly no).
 
 <img width="1408" height="768" alt="X logos" src="https://github.com/user-attachments/assets/a466ee9c-ebd9-459e-9bff-fe158721bf0b" />
