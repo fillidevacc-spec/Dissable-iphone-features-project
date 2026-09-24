@@ -7,6 +7,6 @@ Note:For iOS to enforce all these hardware and privacy restrictions, the receivi
 
 Note2: not ALL files remove iphone features instead they dissable the option to enable them in settings (so yes u can still be spied on) except if u have supervised mode on.
 
-Note3: Location services "block" doesnt also disable find me, you have to manually disable find me (if there is a way i will launch a find me block ut most likeyly no).
+Note3: Location services "block" doesnt also disable find me, you have to manually disable find me (if there is a way i will launch a find me block it but i dont think so).
 
 <img width="1408" height="768" alt="X logos" src="https://github.com/user-attachments/assets/a466ee9c-ebd9-459e-9bff-fe158721bf0b" />
